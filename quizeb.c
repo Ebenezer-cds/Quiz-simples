@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-// Qualquer coisa
 // Função entrada() para ler e validar a escolha do usuário entre começar o quiz (1) ou sair (0). A função fica em loop até receber uma entrada válida, garantindo que o usuário digite apenas 1 ou 0.
 int entrada()
 {
